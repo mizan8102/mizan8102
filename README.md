@@ -2,7 +2,8 @@
 <hr>
 
 <p>👑 I am Web Developer</p>
-<p>Problem Solver. Innovator. Quick Learner</p>
+<p>✌🏻Problem solver</p>
+<p>✍🏿Innovator & quick learner</p>
 <p> 🖊️ Love to write code</p>
 <p> 🎤 Like to share my knowledge</p>
 
