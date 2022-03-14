@@ -1,6 +1,12 @@
 ### Hi 👋, I'm Mizanur Rahman
 <hr>
 
+<p>👑 I am Web Developer</p>
+<p>Problem Solver. Innovator. Quick Learner</p>
+<p> 🖊️ Love to write code</p>
+<p> 🎤 Like to share my knowledge</p>
+
+
 
 
 <!-- know test -->
