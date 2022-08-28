@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Mizanur Rahman
 [![Linkedin Badge](https://img.shields.io/badge/-MizanurRahman-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mizanur-rahman-073b1a1a1/)](https://www.linkedin.com/in/mizanur-rahman-073b1a1a1/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mizan81025)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mizan8102)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mizan81025@gmail.com)](mailto:mizan81025@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mizanur-rahman)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mizanurrahman219)
