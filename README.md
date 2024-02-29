@@ -1,4 +1,4 @@
-![github_banner](https://user-images.githubusercontent.com/67528018/187061166-00f992f8-b1b9-4fc9-b6e8-8cd6b75c8643.png)
+<!-- ![github_banner](https://user-images.githubusercontent.com/67528018/187061166-00f992f8-b1b9-4fc9-b6e8-8cd6b75c8643.png) -->
 
 # Hi 👋, I'm Mizanur Rahman
 [![Linkedin Badge](https://img.shields.io/badge/-MizanurRahman-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mizanur-rahman-073b1a1a1/)](https://www.linkedin.com/in/mizanur-rahman-073b1a1a1/)
@@ -7,7 +7,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mizanur-rahman)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mizanurrahman219)
 <!-- [![](https://visitcount.itsvg.in/api?id=mizan8102&icon=5&color=0)](https://visitcount.itsvg.in) -->
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mizan8102&show_icons=true&locale=en&layout=compact" alt="mizan8102" />
 <!-- “I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role. I have extensive experience working both alone and as part of a team on often time-sensitive, challenging web development projects that require outstanding creative and technical capabilities and the ability to ensure all work is optimized across a wide range of platforms. I take my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry."<br>
 
 ## 🙋 I Like to -
