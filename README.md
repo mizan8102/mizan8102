@@ -1,4 +1,4 @@
-# Hi, I'm mizan8102
+# Hi, I'm mizan
 
 ## 👨‍💻 Software Engineer | Machine Learning Practitioner
 
