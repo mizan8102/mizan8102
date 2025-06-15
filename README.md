@@ -1,4 +1,4 @@
-# Hi, I'm mizan
+# Hi, I'm mizan8102
 
 ## 👨‍💻 Software Engineer | Machine Learning Practitioner
 
@@ -11,6 +11,7 @@ Dedicated and results-driven Software Engineer with a robust background in full-
 - **Mobile Development:** Android (Native)  
 - **Machine Learning & Data Science:** scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, Jupyter Notebook  
 - **DevOps & Tools:** Docker, Git, CI/CD, RESTful APIs, SQL/NoSQL Databases, Transflow  
+- **Monitoring & Observability:** Prometheus, Grafana  
 - **Software Engineering:** System design, API architecture, testing & automation, code optimization, security best practices
 
 ### 🚀 Professional Interests
@@ -18,6 +19,7 @@ Dedicated and results-driven Software Engineer with a robust background in full-
 - Designing and developing robust web, desktop, and mobile applications
 - Building and deploying end-to-end machine learning pipelines
 - Integrating modern DevOps practices and automation into workflows
+- Implementing monitoring, logging, and observability solutions
 - Exploring AI-driven solutions to solve real-world problems
 - Continuous learning and staying ahead of technology trends
 
